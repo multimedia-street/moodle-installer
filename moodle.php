@@ -19,7 +19,7 @@ $urls = [
         'destination' => '/theme/adaptable.zip',
         'unzip' => null,
         'autodelete' => true,
-        'url' => 'https://moodle.org/plugins/download.php/14107/theme_adaptable_moodle33_2017053000.zip',
+        'url' => 'https://moodle.org/plugins/download.php/14109/theme_adaptable_moodle33_2017053000.zip',
         'message_before' => 'Downloading moodle 3.3 ....',
         'message_after' => 'Unpacking moodle ...',
     ],
